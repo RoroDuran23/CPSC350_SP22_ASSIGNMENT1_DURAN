@@ -17,7 +17,7 @@ README Assignment 1: Tutnese Translation
    translator.cpp
    translator.h
 
-3) If we have several lines in the input-file, when writing on to the output-file, it prints everything in one (1) line, and it repeats everything on the lines "before."
+3) If we have several lines in the input-file, when writing on to the output-file, it prints everything in one (1) line, and it repeats everything from the lines "before."
 
 4) I received help from Pablo The Tutor, Lawrence, Connor, Chris and Rene.
 https://codescracker.com/cpp/program/cpp-program-receive-input.htm
